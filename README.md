@@ -11,7 +11,6 @@ Backend: **PHP native (tanpa framework)**. Frontend: **HTML, CSS, JS + Bootstrap
    (default: host `localhost`, database `sia_db`, user `root`, password kosong).
 4. Buka `http://localhost/sia/login.php` di browser.
 
-## Akun Demo
 
 | Role      | Username   | Password      |
 |-----------|-----------|---------------|
