@@ -32,7 +32,6 @@ sia/
 Aplikasi ini sudah diuji end-to-end secara otomatis (login ketiga role, isi KRS,
 input nilai oleh dosen, perhitungan IPK, dan CRUD admin) dan berjalan dengan benar.
 
-## Catatan untuk
 Ingat untuk melengkapi laporan dengan:
 - Desain database (ERD) & UML (use case diagram, dsb) — lihat `sql/schema.sql` sebagai acuan tabel.
 - Mockup tampilan halaman.
