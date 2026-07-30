@@ -9,8 +9,7 @@ Backend: **PHP native (tanpa framework)**. Frontend: **HTML, CSS, JS + Bootstrap
 2. Buat database dengan mengimpor `sql/schema.sql` lewat phpMyAdmin atau:
 3. Sesuaikan kredensial database di `config/database.php` jika perlu
    (default: host `localhost`, database `sia_db`, user `root`, password kosong).
-4. Buka `http://localhost/sia/login.php` di browser.
-
+4. Buka `http://localhost/sia/login.php` di browser
 
 | Role      | Username   | Password      |
 |-----------|-----------|---------------|
