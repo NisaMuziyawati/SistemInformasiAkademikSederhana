@@ -19,7 +19,6 @@ Backend: **PHP native (tanpa framework)**. Frontend: **HTML, CSS, JS + Bootstrap
 > Catatan: saat admin menambah data Mahasiswa/Dosen baru, akun login otomatis
 > dibuat dengan **password default = NIM/NIP** masing-masing.
 
-## Struktur Folder
 sia/
 ├── admin/            Halaman khusus admin (CRUD mahasiswa, dosen, matakuliah)
 ├── dosen/             Halaman khusus dosen (dashboard, input nilai)
