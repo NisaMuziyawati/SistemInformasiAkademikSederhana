@@ -8,8 +8,7 @@ Backend: **PHP native (tanpa framework)**. Frontend: **HTML, CSS, JS + Bootstrap
 1. Salin folder ini ke `htdocs` (XAMPP) atau `www` (Laragon), misalnya jadi `sia`.
 2. Buat database dengan mengimpor `sql/schema.sql` lewat phpMyAdmin atau:
    ```
-   mysql -u root < sql/schema.sql
-   ```
+   m
 3. Sesuaikan kredensial database di `config/database.php` jika perlu
    (default: host `localhost`, database `sia_db`, user `root`, password kosong).
 4. Buka `http://localhost/sia/login.php` di browser.
