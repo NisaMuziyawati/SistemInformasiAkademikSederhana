@@ -1,5 +1,3 @@
-# Sistem Informasi Akademik (SIA) Sederhana
-
 Aplikasi Sistem Informasi Akademik untuk tugas Projek Pemrograman Internet.
 Backend: **PHP native (tanpa framework)**. Frontend: **HTML, CSS, JS + Bootstrap 5**.
 
