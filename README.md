@@ -6,7 +6,7 @@ Backend: **PHP native (tanpa framework)*
 - Dosen: input nilai mahasiswa u
 - IPK dihitung otomatis dari nilai & SKS yang tersimpan
 1. Salin folder ini ke `htdocs` (XAMPP) atau `www` (Laragon), misalnya jadi `sia`.
-2. Buat database dengan mengimpor `sql/schema.sql` lewat phpMyAdmin atau:
+2. Buat database dengan mengimpor `sql/schema.sql` 
 3. Sesuaikan kredensial database di `config/dat
 
 | Role      | Username   | Password      |
