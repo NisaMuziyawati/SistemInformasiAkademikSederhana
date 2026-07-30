@@ -7,8 +7,7 @@ Backend: **PHP native (tanpa framework)*
 - IPK dihitung otomatis dari nilai & SKS yang tersimpan
 1. Salin folder ini ke `htdocs` (XAMPP) atau `www` (Laragon), misalnya jadi `sia`.
 2. Buat database dengan mengimpor `sql/schema.sql` lewat phpMyAdmin atau:
-3. Sesuaikan kredensial database di `config/database.php` jika perlu
-   (default: host `localhost`, database `sia_db`, user `root`, password kosong).
+3. Sesuaikan kredensial database di `config/dat
 
 | Role      | Username   | Password      |
 |-----------|-----------|---------------|
