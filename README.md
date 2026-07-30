@@ -42,8 +42,6 @@ sia/
 ├── assets/            CSS & JS
 ├── sql/schema.sql      Skema database + data awal (seed)
 ├── login.php / logout.php / index.php
-```
-
 ## Pengujian yang Sudah Dilakukan
 Aplikasi ini sudah diuji end-to-end secara otomatis (login ketiga role, isi KRS,
 input nilai oleh dosen, perhitungan IPK, dan CRUD admin) dan berjalan dengan benar.
