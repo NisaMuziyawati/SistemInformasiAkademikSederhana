@@ -55,4 +55,3 @@ Ingat untuk melengkapi laporan dengan:
 - Desain database (ERD) & UML (use case diagram, dsb) — lihat `sql/schema.sql` sebagai acuan tabel.
 - Mockup tampilan halaman.
 - Screenshot hasil run aplikasi.
-- Link repository GitHub (commit bertahap, minimal >25 commit).
