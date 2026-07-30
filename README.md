@@ -7,9 +7,6 @@ Backend: **PHP native (tanpa framework)**. Frontend: **HTML, CSS, JS + Bootstrap
 - Mahasiswa: Isi KRS, lihat nilai, lihat perhitungan IPK
 - Dosen: input nilai mahasiswa untuk mata kuliah yang diampu
 - IPK dihitung otomatis dari nilai & SKS yang tersimpan
-
-## Instalasi (XAMPP / Laragon / MySQL lokal)
-
 1. Salin folder ini ke `htdocs` (XAMPP) atau `www` (Laragon), misalnya jadi `sia`.
 2. Buat database dengan mengimpor `sql/schema.sql` lewat phpMyAdmin atau:
    ```
