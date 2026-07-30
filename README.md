@@ -1,5 +1,5 @@
 Aplikasi Sistem Informasi Akademik untuk tugas Projek Pemrograman Internet.
-Backend: **PHP native (tanpa framework)**. Frontend: **HTML, CSS, JS + Bootstrap 5**.
+Backend: **PHP native (tanpa framework)*
 
 - Admin: kelola data Mahasiswa, Dosen, dan Mata Kuliah (CRUD)
 - Mahasiswa: Isi KRS, lihat nilai, lihat perhitungan IPK
